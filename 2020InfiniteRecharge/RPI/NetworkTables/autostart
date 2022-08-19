@@ -1,0 +1,5 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@lxterminal -e "/home/pi/Desktop/2020InfiniteRecharge/RPI/NetworkTables/camera.sh"
+@lxterminal -e "/home/pi/Desktop/2020InfiniteRecharge/RPI/NetworkTables/NetworkTables.py"
+@screensaver -no-splash
